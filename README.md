@@ -4,6 +4,9 @@ ChainBattles is a decentralized application (DApp) built with [Hardhat](https://
 
 This DApp is deployed on the [Mumbai testnet](https://mumbai.ethereum.org/) and uses [Hardhat verify](https://hardhat.org/plugins/hardhat-verify/) for contract verification. It also uses [Alchemy](https://alchemyapi.io/) as its node, with the `TESTNET_RPC` key and the `POLYGONSCAN_API_KEY` for interacting with the Ethereum network.
 
+Contract Address --> 0xe3563124ca1A7f77B934534782E1d7AdbA7B9b97
+[https://mumbai.polygonscan.com/address/0xe3563124ca1A7f77B934534782E1d7AdbA7B9b97](https://mumbai.polygonscan.com/address/0xe3563124ca1A7f77B934534782E1d7AdbA7B9b97)
+
 ## Prerequisites
 
 To use this project, you will need to install:
